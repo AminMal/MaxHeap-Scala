@@ -1,4 +1,4 @@
-#Max Heap Data Structure implemented in Scala!
+# Max Heap Data Structure implemented in Scala!
 So basically, you have to create an instance from class MaxHeap like so:
     
     val myHeap = new maxHeap
